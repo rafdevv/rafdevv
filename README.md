@@ -1,5 +1,5 @@
 <h1 align="left"> Rafael Andrew </h1>
-<h3 align="left">BS Information Technology Student | Aspiring Cybersecurity Professional</h3>
+<h3 align="left">BS Information Technology Student | Cybersecurity x Cloud Professional</h3>
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge" /></a>
