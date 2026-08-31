@@ -1,5 +1,5 @@
 <h1 align="left"> Rafael Andrew </h1>
-<h3 align="left">BS Information Technology Student | Cybersecurity x Cloud Professional</h3>
+<h3 align="left">BS Information Technology Student |Aspiring Cybersecurity x Cloud Professional</h3>
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge" /></a>
@@ -58,7 +58,6 @@ I am developing a foundation in security operations, network security, and cloud
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 </p>
 
