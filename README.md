@@ -1,5 +1,5 @@
-<h1 align="left"> Rafael Andrew </h1>
-<h3 align="left">BS Information Technology Student |Aspiring Cybersecurity x Cloud Professional</h3>
+<h1 align="left"> R</h1>
+<h3 align="left">BS Information Technology Student</h3>
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge" /></a>
@@ -41,16 +41,12 @@ I am developing a foundation in security operations, network security, and cloud
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 **Backend**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 **Database**
@@ -58,60 +54,21 @@ I am developing a foundation in security operations, network security, and cloud
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 </p>
 
-**Cloud**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
-</p>
-
-**Cybersecurity and Networking**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/TShark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nikto-2B2B2B?style=for-the-badge" />
-</p>
-
-**Tools and DevOps**
+**Tools**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
----
 
-### Cybersecurity Journey
 
-My interest in cybersecurity centers on understanding how systems, networks, and applications can be monitored, secured, and tested. Current areas of practice include:
-
-- Network reconnaissance and traffic analysis using Nmap, Wireshark, TShark, and tcpdump
-- Web application vulnerability scanning with Nikto
-- Security tooling and administration within Kali Linux
-- Foundational SOC concepts and network security principles
-
----
-
-### Cloud and AWS
-
-My longer term interest is at the intersection of cloud computing and security, focused on how organizations design, deploy, and protect infrastructure, applications, and data on AWS, including Lambda, S3, DynamoDB, and Amplify.
-
----
 
 ### Connect
 
