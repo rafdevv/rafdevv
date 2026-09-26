@@ -11,14 +11,13 @@
 
 ### About
 
-I am an Information Technology student with a strong interest in software development, cybersecurity, networking, and cloud computing. My work combines academic coursework with independent projects, focused on understanding how systems, applications, and networks are built, secured, and maintained.
+I am an Information Technology student with a strong interest in web and some software development, cybersecurity, networking, and cloud computing. My work combines academic coursework with independent projects, focused on understanding how systems, applications, and networks are built, secured, and maintained.
 
 I am developing a foundation in security operations, network security, and cloud security, alongside practical experience in full stack development. This profile documents my projects, coursework, and ongoing learning as I work toward a career in cybersecurity.
 
 **Areas of focus**
 - Security operations center (SOC) fundamentals
 - Network security and traffic analysis
-- Cloud security, primarily on AWS
 - Full stack web development
 
 ---
