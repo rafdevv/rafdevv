@@ -35,7 +35,7 @@ I am developing a foundation in security operations, network security, and cloud
 
 ## Projects and Lab Work
 
-<img src="./Terminal.svg" alt="Animated illustration of a Kali terminal session running Nmap and tcpdump" width="100%" />
+<img src="./nmap-terminal.svg" alt="Fictional demo-only Nmap terminal output for a lab host" width="100%" />
 
 - Network scanning with Nmap
 - Traffic analysis with Wireshark, tcpdump and tshark
