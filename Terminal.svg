@@ -1,21 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="476" viewBox="0 0 840 476" role="img" aria-label="Fictional demo-only Nmap scan output">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="476" viewBox="0 0 840 476" role="img" aria-label="Kali-style terminal showing a fictional Nmap scan">
   <rect width="840" height="476" rx="12" fill="#0d1117" stroke="#30363d" />
   <rect width="840" height="42" rx="12" fill="#161b22" />
   <circle cx="22" cy="21" r="5" fill="#ff7b72" />
   <circle cx="42" cy="21" r="5" fill="#d29922" />
   <circle cx="62" cy="21" r="5" fill="#3fb950" />
-  <text x="420" y="26" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="14" text-anchor="middle">demo terminal</text>
-  <g fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16">
-    <text x="28" y="88" fill="#7ee787">demo@lab:~$</text>
-    <text x="170" y="88">nmap -sV -p 22,80 lab-demo.invalid</text>
-    <text x="28" y="132" fill="#f0883e">DEMO ONLY: all host details and results are fictional</text>
-    <text x="28" y="176">Nmap scan report for lab-demo.invalid (192.0.2.10)</text>
-    <text x="28" y="212">Host is up (0.0042s latency).</text>
+  <text x="420" y="26" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="14" text-anchor="middle">kali@kali: ~</text>
+  <g fill="#c9d1d9" font-family="DejaVu Sans Mono, Consolas, 'Courier New', monospace" font-size="15">
+    <text x="28" y="82" fill="#58a6ff">┌──(kali㉿kali)-[~]</text>
+    <text x="28" y="108" fill="#58a6ff">└─$</text>
+    <text x="82" y="108">nmap -sV -p 22,80,443 demo-host.invalid</text>
+    <text x="28" y="148" fill="#f0883e">SIMULATED OUTPUT - no scan was run; all results are fictional</text>
+    <text x="28" y="184">Nmap scan report for demo-host.invalid (192.0.2.10)</text>
+    <text x="28" y="216">Host is up (0.0042s latency).</text>
     <text x="28" y="256">PORT     STATE    SERVICE  VERSION</text>
-    <text x="28" y="292">22/tcp   open     ssh      DemoSSH 1.0 (simulated)</text>
-    <text x="28" y="328">80/tcp   closed   http</text>
-    <text x="28" y="372" fill="#8b949e">Nmap done: 1 fictional host scanned in 0.42 seconds</text>
-    <text x="28" y="432" fill="#7ee787">demo@lab:~$</text>
-    <rect x="170" y="416" width="9" height="22" fill="#7ee787" />
+    <text x="28" y="288">22/tcp   open     ssh      DemoSSH 1.0 (simulated)</text>
+    <text x="28" y="320">80/tcp   closed   http</text>
+    <text x="28" y="352">443/tcp  open     https    DemoTLS 1.0 (simulated)</text>
+    <text x="28" y="392" fill="#8b949e">Nmap done: 1 fictional host scanned in 0.42 seconds</text>
+    <text x="28" y="440" fill="#58a6ff">┌──(kali㉿kali)-[~]</text>
+    <text x="28" y="462" fill="#58a6ff">└─$</text>
+    <rect x="66" y="444" width="9" height="22" fill="#58a6ff" />
   </g>
 </svg>
